@@ -22,8 +22,8 @@
 ## What we'll learn
 
 - **Session 1** (6/7): Coding fundamentals (Text editors, GitHub, Terminal commands)
-- **Session 2** (6/14): Structure of the Web (HTML) 
-- **Session 3** (6/21): Styling the Web (CSS) 
+- **Session 2** (6/14): Structure of the Web (HTML)
+- **Session 3** (6/21): Styling the Web (CSS)
 - **Session 4** (6/28): Responsive Design
 - **Session 5** (7/12): Final Presentation / show and tell
 
@@ -35,7 +35,7 @@
   made up of text files.
 - Text commands also provided the interface to most early computer programs.
   Today's computers are much more capable, and now most programs provide a
-  **GUI** (graphical user interface) for convenience. 
+  **GUI** (graphical user interface) for convenience.
 - But under the hood, many powerful text-based tools remain available.
 
 ## Party like it's 1989
@@ -89,7 +89,7 @@ A Text Editor can very basic...
 - Instead of clicking on icons, you enter text into the **command line**
 
 ## Some simple commands
-- Print your current working directory: `cwd`
+- Print your current working directory: `pwd`
 - List all the files in a directory: `ls`
 - List all files including hidden ones `ls -a`
 - List files with a bunch of additional data: `ls -lh`
